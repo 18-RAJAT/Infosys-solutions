@@ -1,0 +1,1 @@
+{"name":"Local: RPG_Game","url":"r:\\INFOSYS_Questions\\RPG_Game.cpp","tests":[{"id":1707741156021,"input":"2\n123\n78\n130\n10\n0","output":"2"},{"id":1707741180108,"input":"3\n100\n101\n100\n304\n100\n1\n524","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"r:\\INFOSYS_Questions\\RPG_Game.cpp","group":"local","local":true}
