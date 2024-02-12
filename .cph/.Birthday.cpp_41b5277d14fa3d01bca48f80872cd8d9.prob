@@ -1,0 +1,1 @@
+{"name":"Local: Birthday","url":"r:\\INFOSYS_Questions\\Birthday.cpp","tests":[{"id":1707741957602,"input":"2\n1","output":"2"},{"id":1707741986772,"input":"2\n2","output":"3"},{"id":1707741990283,"input":"3\n2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"r:\\INFOSYS_Questions\\Birthday.cpp","group":"local","local":true}
