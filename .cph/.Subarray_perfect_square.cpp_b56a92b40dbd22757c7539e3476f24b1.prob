@@ -1,0 +1,1 @@
+{"name":"Local: Subarray_perfect_square","url":"r:\\INFOSYS_Questions\\Subarray_perfect_square.cpp","tests":[{"id":1707805387673,"input":"4\n1 4 3 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"r:\\INFOSYS_Questions\\Subarray_perfect_square.cpp","group":"local","local":true}
