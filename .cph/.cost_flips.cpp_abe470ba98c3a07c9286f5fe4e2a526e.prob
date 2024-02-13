@@ -1,0 +1,1 @@
+{"name":"Local: cost_flips","url":"r:\\INFOSYS_Questions\\cost_flips.cpp","tests":[{"id":1707798207400,"input":"4\n1111 \n7 \n1 \n2 ","output":"1"},{"id":1707798423711,"input":"3\n110\n2\n1\n2","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"r:\\INFOSYS_Questions\\cost_flips.cpp","group":"local","local":true}
