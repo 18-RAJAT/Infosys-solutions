@@ -1,0 +1,1 @@
+{"name":"Local: Find_min_max_value","url":"r:\\INFOSYS_Questions\\Find_min_max_value.cpp","tests":[{"id":1707834086749,"input":"1+2*3+4*5","output":"27\n105"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"r:\\INFOSYS_Questions\\Find_min_max_value.cpp","group":"local","local":true}
